@@ -1,0 +1,23 @@
+[33mcommit 49aeffc8aa85849a20e91e1d5df8deda4c89bca2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: rija <randrianarivony@rijandrisolo.ovh>
+Date:   Fri Jun 3 21:20:32 2022 +0200
+
+    Modifier votre code de façon utiliser les classes de bootstrap :
+    •container (balise body)
+    •row (balise header)
+    •mb-5 (balise header)
+    •img-fluid (balise img)
+    •col-md-4 (balise img)
+    •col-md-8 (balise h1)
+
+[33mcommit 628816a8db08095d1e108bf69f2027383d7650ba[m
+Author: rija <randrianarivony@rijandrisolo.ovh>
+Date:   Fri Jun 3 17:27:38 2022 +0200
+
+    Ajout bootstrap dans head V0.1.
+
+[33mcommit b697d660f541ff7d6fe18a05c3681c7127f4d76b[m
+Author: rija <randrianarivony@rijandrisolo.ovh>
+Date:   Fri Jun 3 17:19:40 2022 +0200
+
+     Jason Bell 1ère version
